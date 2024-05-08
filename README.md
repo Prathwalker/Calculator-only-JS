@@ -1,7 +1,3 @@
-Certainly! Here's a README.md file for a JavaScript calculator project using DOM manipulation:
-
----
-
 # JavaScript Calculator
 
 This project is a simple calculator implemented using JavaScript with DOM manipulation. Users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
